@@ -1,4 +1,4 @@
-### Hola, I'm Pawan Kumar! 👋
+### Hola, I'm [Pawan Kumar!](https://pawan.live) 👋
 
 - 🔭 I’m currently working on Frontier Wallet.
 - 🌱 I’m currently learning Swift.
@@ -9,5 +9,14 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
+**Languages and Tools:**  
 
-<img src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=dracula&hide_langs_below=1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats" />
