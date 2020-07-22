@@ -18,5 +18,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=dracula&hide_langs_below=1" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=dark&hide_langs_below=1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=dark" />
+
+
