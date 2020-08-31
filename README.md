@@ -29,7 +29,7 @@
 
 
 
-- 🔭 I’m currently working on [Frontier Wallet](https://frontierwallet.com).
+- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
 - 🌱 I’m currently learning Swift.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
 - 🤔 I’m looking for help with VelocityX documentation.
